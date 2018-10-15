@@ -1,0 +1,48 @@
+{
+	"analytics-uuid": "18adb69d-fc9b-4034-b1cf-e60c5d599674",
+	"motd": {
+		"minVersion": "3.0.5"
+	},
+	"motd.fetched": 1520048243079,
+	"usage": true,
+	"user": {
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "111859395219201041171",
+		"email": "snabieel@gmail.com",
+		"email_verified": true,
+		"at_hash": "BbTDZK1-g_RCyK7q3LegKw",
+		"iss": "accounts.google.com",
+		"iat": 1496644100,
+		"exp": 1496647700
+	},
+	"tokens": {
+		"expires_at": 1520051842772,
+		"refresh_token": "1/6oaHS_fxxjwWFasC9UVa1j_3hhOINRgaxpEX5Gvf6e0",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.Gl1zBV7J5albLDhMEJyLf3KeqPtBs9KtP4wcSZ7nMuazM3abz6hcdREJMSspLUDMPDqeyKvwaM2XGRzIdGMJHfqLRh2aJfKfqsLLp0zOWyLlaLrWeCnCSThm2Xksj4M",
+		"token_type": "Bearer",
+		"expires_in": 3600,
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjgzOWI5MjRiYjY1OWYwNzM1OGZkZjgyODhjZTU5ZjE4OWM0MDI4ZjQifQ.eyJhenAiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTE4NTkzOTUyMTkyMDEwNDExNzEiLCJlbWFpbCI6InNuYWJpZWVsQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoieGlzeTJ0VjVOTmgzV2FZU19aczUxdyIsImV4cCI6MTUyMDA1MTg0MiwiaXNzIjoiYWNjb3VudHMuZ29vZ2xlLmNvbSIsImlhdCI6MTUyMDA0ODI0Mn0.lVIoe40AIMk1_Smm4CPH0rbU1E3M9LUZrdA7a1TFl7GRpm9ywcZNmF0qz6WrqzLYjko_LuQFW2gjULjnLQXjGU608QQZ0VmHfrerwQ9Pv4CfvBFsGcVJoTluTViEG1cbK1SJzwFjmV-KnaUrJhZvTnUZ2QUy4PsO7fvyVum-y4oXzt2IHemzE7RBq0niXXwxSUM2cbcdyhdiFLWZIDr7kz1KLXzrNZypIE5vL1Arz5W34lCl3UlEnRpVSeQGLHtXztCyemM9L1Z-0IO55Wa0PGip0OoBo9VHG0bBaA7xU3Qs9wU3uz4xDq0F-yK6Tsthux_Hdl2ZeuUW5p5lfDPUMg"
+	},
+	"activeProjects": {
+		"/Users/may/Documents/Developer/heroku/myapp": "nodejs-a3a07",
+		"/Users/may/Documents/Developer/Firebase/uppercase": "test",
+		"/Users/may/Documents/Developer/heroku/uwindsormsa node app": "uwindsormsa-b5d32",
+		"/Users/may/Documents/Developer/testingFirebase": "staging",
+		"/Users/may/Desktop/web": "nodejs-a3a07",
+		"/Users/may/Documents/Developer/heroku/wia nodejs": "test",
+		"/Users/may/Documents/Developer/heroku/wia_cloud_func": "wiassociation-9e259",
+		"/Users/may/Documents/Developer/heroku/noor_cloud_func": "anoorschool-4330c",
+		"/Users/may/Documents/Developer/heroku/fcm_uwindsmsa_cloud_func": "uwindsormsa-b5d32",
+		"/Users/may/Documents/Developer/heroku/fcm_wihs_func": "windsorislamichighschool",
+		"/Users/may/Documents/Developer/heroku/fcm_taqwa_func": "altaqwaschool-c3f3a",
+		"/Users/may/Documents/Developer/heroku/fcm_london_fcm": "londonislamicschool-b9250"
+	}
+}

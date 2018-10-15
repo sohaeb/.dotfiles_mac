@@ -1,0 +1,11 @@
+load ~/.config/cmus/myAthan
+q
+save
+save ~/.config/cmus/myAthan
+pl-create athan
+pl-create new_playlist_athan
+pl-create 
+add -p playlist
+Q
+quit
+add ~/Downloads
